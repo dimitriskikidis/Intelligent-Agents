@@ -1,0 +1,29 @@
+{
+    "FetchBall": {
+        "checkpoints": [
+            {
+                "steps": 363089,
+                "file_path": "results\\FetchBall\\FetchBall\\FetchBall-363089.onnx",
+                "reward": 0.25,
+                "creation_time": 1659362941.0394852,
+                "auxillary_file_paths": [
+                    "results\\FetchBall\\FetchBall\\FetchBall-363089.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 363089,
+            "file_path": "results\\FetchBall\\FetchBall.onnx",
+            "reward": 0.25,
+            "creation_time": 1659362941.0394852,
+            "auxillary_file_paths": [
+                "results\\FetchBall\\FetchBall\\FetchBall-363089.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
